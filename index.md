@@ -6,4 +6,3 @@ Hello,World
 ![image](33.jpg)
 ![image](44.jpg)
 ![image](666.jpg)
-![image](Screenshot2023-01-12110122.jpg)
