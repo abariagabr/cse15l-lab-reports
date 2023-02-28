@@ -8,7 +8,7 @@ So for this task I will choose less.And I will run some command to show you when
 ![000](https://user-images.githubusercontent.com/122565144/221750312-3b7743ad-5458-4db3-9c86-1bd1b192234e.jpg)  
 
 ## Option: -N (display line numbers)  
-This option displays line numbers next to the lines of the file being viewed in less. This can be useful if you want to reference specific lines of the file.So I will do this task for difreent files so we hac see the lines diffrence.  
+This option displays line numbers next to the lines of the file being viewed in less. This can be useful if you want to reference specific lines of the file.So I will do this task for difreent files so we can see the lines diffrence.  
 
 
 Examples 1:  
@@ -16,9 +16,12 @@ Examples 1:
 ![Post 222](https://user-images.githubusercontent.com/122565144/221747559-785ce49b-b1a0-4879-979d-01e0ac6c516b.jpg)  
 ![Post 22](https://user-images.githubusercontent.com/122565144/221747613-43841e10-1413-4aa3-af45-7ae8ee501bdf.jpg)  
 
-Examples 2:  
+Examples 2:-  
+And if we try this on a different file the task is the same but it has diffrent out put.  
+
+![-N sec 1](https://user-images.githubusercontent.com/122565144/221751572-f0bae34d-361d-48f3-aeee-72b584613f15.jpg) 
 ![-N second](https://user-images.githubusercontent.com/122565144/221751526-069e8cd3-6e50-4472-9021-d0cb0dd2236a.jpg)  
-![-N sec 1](https://user-images.githubusercontent.com/122565144/221751572-f0bae34d-361d-48f3-aeee-72b584613f15.jpg)  
+
 
 ## Option: -s (squeeze multiple blank lines into one)  
 This option removes extra blank lines in the file being viewed in less. This can be useful if the file has extra blank lines that you don't need to see.  
