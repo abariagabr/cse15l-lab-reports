@@ -1,5 +1,8 @@
 ## Lab report - 3  
 ## Researching Commands  
+## Introduction:-    
+In this assignment, we will be exploring the commands less, find, and grep, and their various command-line options. The goal of this assignment is to gain a deeper understanding of these commands, and to become more comfortable using them in real-world scenarios. For this assignment, we will choose one of these commands and find 4 interesting command-line options or alternate ways to use the command. For each of these options, we will provide 2 examples of how to use it on files and directories from the ./written_2 directory. Through this assignment, we hope to gain a better understanding of the sophisticated behavior and capabilities of these powerful command-line tools.  
+
 So for this task I will choose less.And I will run some command to show you when and for what reason do we need to use it.  
 
 ![01](https://user-images.githubusercontent.com/122565144/221750134-7fe506a3-605b-4039-bd3b-da6e95506b10.jpg)  
