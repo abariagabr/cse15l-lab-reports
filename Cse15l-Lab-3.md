@@ -74,7 +74,11 @@ Suppose you have a file named example.txt with the following content: And you wa
 ## Example:- 2  
 In this one it's the same task but in diffrent file. So I was trying to search the word PYRAMID in the HistoryEgypt.txt file.  
 
-![New 2](https://user-images.githubusercontent.com/122565144/221766243-75d7b741-6193-412f-91fa-e3816df6558c.jpg)
+![New 2](https://user-images.githubusercontent.com/122565144/221766243-75d7b741-6193-412f-91fa-e3816df6558c.jpg)  
+
+## Finally  
+
+So regarding the source I found. I found it almost all in this website https://phoenixnap.com/kb/less-command-in-linux#:~:text=3.-,Search%20for%20a%20String,in%20less%20is%20case%2Dsensitive.
 
 
 
