@@ -44,6 +44,29 @@ Now I try to find Lucayans in the folder and I fond it as you see below.
 
 ![grep name 2](https://user-images.githubusercontent.com/122565144/221754094-09134f29-2aa6-47e3-b07f-17e0a7d98f27.jpg)  
 
+In this example, we're using the less command to display the contents of Algarve-WhereToGo.txt on the terminal screen. The | character is used to pipe the output of less to the grep command, which searches for the word "Aron" within the file. The output of the grep command is displayed on the terminal screen, showing only the lines that contain the word "Aron and Lucayanas".
+
+You can replace "Aron" with any other word or regular expression that you want to search for within the file. Note that this method only displays the lines that contain the search term - it doesn't display the entire file. If you want to display the entire file with the search term highlighted, you can use the -i option with less:
+
+## Option: -F
+
+The -F option in the less command is used to automatically exit less if the entire file can be displayed on one screen. This can be useful if you're working with small files and don't want to have to manually exit less after viewing the contents.  
+
+
+Here's an example of how to use the -F option with less:  
+![-f 1](https://user-images.githubusercontent.com/122565144/221760687-27f8853f-25af-4ed2-a272-0ef45e4af861.jpg)  
+![-F 2](https://user-images.githubusercontent.com/122565144/221760741-b43289ca-1532-443f-abf9-cd1e3bd2780c.jpg)  
+
+In this example, we're running the less command on the HistoryMadrid.txt file, with the -F option. This will cause less to exit automatically if the entire file can be displayed on one screen.  
+
+When you open the file with less, if the contents of the file can fit on one screen, less will display the contents and immediately exit. If the contents of the file are too long to fit on one screen, less will display the first screen of content and enter the usual paging mode.But as we see our file is larg so it doesn't exit immediately.    
+
+Note that the -F option is generally only useful for small files that can be displayed on one screen. If you're working with larger files, you may still want to use less in the usual paging mode, even if the entire file can technically fit on one screen.  
+
+
+
+
+
 
 
 
