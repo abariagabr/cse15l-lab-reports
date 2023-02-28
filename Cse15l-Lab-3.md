@@ -67,6 +67,18 @@ When you open the file with less, if the contents of the file can fit on one scr
 
 Note that the -F option is generally only useful for small files that can be displayed on one screen. If you're working with larger files, you may still want to use less in the usual paging mode, even if the entire file can technically fit on one screen.  
 
+## less +/(Word you need) -N example.txt  
+Suppose you have a file named example.txt with the following content: And you want to search for the string "orange" in the file, and display the search results with line numbers.So in the first example I will try the word which is given in a skill demo 1 and I found it and also it was highlighted automatically.    
+## Example 1:-
+![less +1](https://user-images.githubusercontent.com/122565144/221766141-db5fe243-691f-4769-bf65-04fbb571d98a.jpg)  
+## Example:- 2  
+In this one it's the same task but in diffrent file. So I was trying to search the word PYRAMID in the HistoryEgypt.txt file.  
+
+![New 2](https://user-images.githubusercontent.com/122565144/221766243-75d7b741-6193-412f-91fa-e3816df6558c.jpg)
+
+
+
+
 
 
 
