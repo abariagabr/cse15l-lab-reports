@@ -22,6 +22,8 @@ And if we try this on a different file the task is the same but it has diffrent 
 ![-N sec 1](https://user-images.githubusercontent.com/122565144/221751572-f0bae34d-361d-48f3-aeee-72b584613f15.jpg) 
 ![-N second](https://user-images.githubusercontent.com/122565144/221751526-069e8cd3-6e50-4472-9021-d0cb0dd2236a.jpg)  
 
+In this example, less displays the contents of Algarve-WhereToGo.txt with line numbers on the left-hand side of the terminal screen. The -N option is used to enable the display of line numbers.  
+
 
 ## Option: -s (squeeze multiple blank lines into one)  
 This option removes extra blank lines in the file being viewed in less. This can be useful if the file has extra blank lines that you don't need to see.  
