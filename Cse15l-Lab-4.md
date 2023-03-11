@@ -23,7 +23,9 @@ Edit the code file to fix the failing test
 From the error message, I knew that the problem with the code. So I typed the command nano L<Tab>.java in order to autocomplete the file name and then open a text editor within my terminal to fix the error. Using my down arrow key repeatedly, I went down to line 42 and updated the increment statement in the last while loop to increment index2, rather than index1. This is the code before the change:  
  ![10](https://user-images.githubusercontent.com/122565144/224515876-34ef604c-55a0-48b0-8832-f77ff4e77163.jpg)
  This is the code after the change:  
-  ![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)
+  ![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)  
+  ## Run the tests, demonstrating that they now succeed
+In order to run the tests again, I used the up arrow key, since they are the same lines of code from the first time I ran the tests. To recompile the java files, I typed <up><up><up><up><up><up><up><up><enter>. This compiled all of the java files. Then, in order to run the unit tests, I typed <up><up><up><up><up><up><enter>. This ran all the tests, and this time they all passed. My terminal looked like:
 
 
   
