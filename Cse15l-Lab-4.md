@@ -18,6 +18,13 @@ In order to log into ieng6, I opened my terminal and typed: ssh cs15lwi23apg@ien
   ![8](https://user-images.githubusercontent.com/122565144/224514565-bcc40ff7-bd7e-4b81-93b3-70fe6d510934.jpg)  
   So the next step is to Run the test, demonstrating that they now succeed  
   To do that I cloned the repository onto my ieng6 account, I changed my working directory into that repository. I typed cd lab7 <enter>. From the course website, I copy and pasted the following command into my terminal: javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java and then <enter>. Then, I copy and pasted the next command from the course website into my terminal: java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore, I then typed ListExamplesTests <enter>. These two commands compiled the java files and ran the unit tests in the tester file. My terminal displayed this pictuce as you see below:   ![9](https://user-images.githubusercontent.com/122565144/224515127-7e652e18-09b8-42eb-994d-c916438f4b53.jpg)
+  So as we see there is a 1 failure in our terminal. To fix this  
+Edit the code file to fix the failing test
+From the error message, I knew that the problem with the code. So I typed the command nano L<Tab>.java in order to autocomplete the file name and then open a text editor within my terminal to fix the error. Using my down arrow key repeatedly, I went down to line 42 and updated the increment statement in the last while loop to increment index2, rather than index1. This is the code before the change:  
+ ![10](https://user-images.githubusercontent.com/122565144/224515876-34ef604c-55a0-48b0-8832-f77ff4e77163.jpg)
+ This is the code after the change:  
+  ![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)
+
 
   
 
