@@ -8,10 +8,14 @@ By undertaking this assignment, I was able to expand my knowledge and skillset i
 For example:-  
 ![-s 0](https://user-images.githubusercontent.com/122565144/224520566-708971cd-0095-4f6d-9db0-343e58d50d7f.jpg)
 ![-s 1](https://user-images.githubusercontent.com/122565144/224520572-c5b0c9de-fb0c-4478-8ee8-01f9d88b5c8e.jpg)  
+## `Less -S`
 
 "I am initiating the `less-s` bash command for the purpose of starting the `les`s pager program in 'squeeze' mode. The 'squeeze' mode is designed to consolidate multiple blank lines into a single line, allowing for easier readability of text files that contain excessive whitespace or paragraph spacing. This feature is especially helpful when viewing log files or similar text documents.  
 
-It is worth noting that `less -s file.txt` is one of the ways to employ this mode. Using the `less-s` command in this manner enables me to view text files one page at a time, thus improving the ease and convenience of the process while reducing confusion. In summary, the `less-s` bash command is an invaluable tool for optimizing the viewing of text files in 'squeeze' mode." and i'm using this for the `bahamas-History.txt` from lab 3.
+It is worth noting that `less -s file.txt` is one of the ways to employ this mode. Using the `less-s` command in this manner enables me to view text files one page at a time, thus improving the ease and convenience of the process while reducing confusion. In summary, the `less-s` bash command is an invaluable tool for optimizing the viewing of text files in 'squeeze' mode." and i'm using this for the `bahamas-History.txt` from lab 3.  
+
+## `Less -N`
+
 
 
 
