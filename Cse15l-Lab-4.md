@@ -25,7 +25,9 @@ From the error message, I knew that the problem with the code. So I typed the co
  This is the code after the change:  
   ![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)  
   ## Run the tests, demonstrating that they now succeed
-In order to run the tests again, I used the up arrow key, since they are the same lines of code from the first time I ran the tests. To recompile the java files, I typed `<up><up><up><up><up><up><up><up><enter>`. This compiled all of the java files. Then, in order to run the unit tests, I typed `<up><up><up><up><up><up><enter>`. This ran all the tests, and this time they all passed. My terminal looked like:
+In order to run the tests again, I used the up arrow key, since they are the same lines of code from the first time I ran the tests. To recompile the java files, I typed `<up><up><up><up><up><up><up><up><enter>`. This compiled all of the java files. Then, in order to run the unit tests, I typed `<up><up><up><up><up><up><enter>`. This ran all the tests, and this time they all passed. My terminal looked like:  
+ 
+
 
 
   
