@@ -13,7 +13,7 @@ So fot the second step I have to Setup the Fork respository so to creat this I w
 In order to log into ieng6, I opened my terminal and typed: ssh cs15lwi23apg@ieng6.ucsd.edu and <enter>. After running this command, my terminal looked like this:
 ![6](https://user-images.githubusercontent.com/122565144/224514291-91b2a982-f129-497f-97de-942097a22c0c.jpg)  
   The Next step is I have to clone the fork of the repository from my Github account  
-  to do this I cloned the repository I forked into my ieng6 account. I went back to the GitHub page of my fork and clicked on the green code button. I selected the "SSH" tab and copied the url to my clipboard. I went back to my terminal, and typed the command git clone <ctrl> v <enter>. My terminal looked like this:  
+  to do this I cloned the repository I forked into my ieng6 account. I went back to the GitHub page of my fork and clicked on the green code button. I selected the "SSH" tab and copied the url to my clipboard. I went back to my terminal, and typed the command git clone `<ctrl> v <enter>`. My terminal looked like this:  
   ![7](https://user-images.githubusercontent.com/122565144/224514440-493eaab1-5f13-4948-83b6-ab762ee3b143.jpg)  
   ![8](https://user-images.githubusercontent.com/122565144/224514565-bcc40ff7-bd7e-4b81-93b3-70fe6d510934.jpg)  
   So the next step is to Run the test, demonstrating that they now succeed  
@@ -26,7 +26,10 @@ From the error message, I knew that the problem with the code. So I typed the co
   ![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)  
   ## Run the tests, demonstrating that they now succeed
 In order to run the tests again, I used the up arrow key, since they are the same lines of code from the first time I ran the tests. To recompile the java files, I typed `<up><up><up><up><up><up><up><up><enter>`. This compiled all of the java files. Then, in order to run the unit tests, I typed `<up><up><up><up><up><up><enter>`. This ran all the tests, and this time they all passed. My terminal looked like:  
- 
+ ![15](https://user-images.githubusercontent.com/122565144/224517895-6b86a01b-eccd-4cb1-b0f6-c377575cb672.jpg)
+![16](https://user-images.githubusercontent.com/122565144/224517936-5eee1b0e-6c3a-4429-add9-fb3517e5261b.jpg)
+Commit and push the resulting change to your Github account (you can pick any commit message!)
+In order to push my changes to GitHub, I first typed git add . `<enter>` to add all my changes. Then, I created a commit with a message by typing git commit -m "fix error" `<enter>`. Finally, I pushed my changes to GitHub, by typing git push. My terminal output was:
 
 
 
