@@ -29,7 +29,18 @@ In order to run the tests again, I used the up arrow key, since they are the sam
  ![15](https://user-images.githubusercontent.com/122565144/224517895-6b86a01b-eccd-4cb1-b0f6-c377575cb672.jpg)
 ![16](https://user-images.githubusercontent.com/122565144/224517936-5eee1b0e-6c3a-4429-add9-fb3517e5261b.jpg)
 Commit and push the resulting change to your Github account (you can pick any commit message!)
-In order to push my changes to GitHub, I first typed git add . `<enter>` to add all my changes. Then, I created a commit with a message by typing git commit -m "fix error" `<enter>`. Finally, I pushed my changes to GitHub, by typing git push. My terminal output was:
+In order to push my changes to GitHub, I first typed git add . `<enter>` to add all my changes. Then, I created a commit with a message by typing git commit -m "fix error" `<enter>`. Finally, I pushed my changes to GitHub, by typing git push. My terminal output was:  
+  `typed: <ctrl><v><Enter> then <ctr><v><Enter> to paste in the code 
+to compile and run the tester
+
+typed: git add ListExamples.java\<Enter> to save the changes
+
+typed: git commit ListExamples.java<Enter> to commit 
+the changes and then pressed <i> to enter insert mode in vim, 
+then wrote 'Updated'
+
+then I pressed <esc> to exit insert mode and then used <:><w><q><Enter> 
+to save and exit vim`
 
 
 
