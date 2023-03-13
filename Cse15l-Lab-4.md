@@ -11,9 +11,7 @@ So fot the second step I have to Setup the Fork respository so to creat this I w
 ![5](https://user-images.githubusercontent.com/122565144/224514157-6eb4a2c0-1075-4957-a994-4cf38c514220.jpg)  
 ## The next step is Log into ieng6  
 In order to log into ieng6, I opened my terminal and typed: ssh cs15lwi23apg@ieng6.ucsd.edu and <enter>. After running this command, my terminal looked like this:
-![6](https://user-images.githubusercontent.com/122565144/224807328-aea9f974-a287-4e57-b926-5bf46c6ae00f.jpg)
-
-![6](https://user-images.githubusercontent.com/122565144/224514291-91b2a982-f129-497f-97de-942097a22c0c.jpg)  
+ ![6](https://user-images.githubusercontent.com/122565144/224514291-91b2a982-f129-497f-97de-942097a22c0c.jpg)  
   The Next step is I have to clone the fork of the repository from my Github account  
   to do this I cloned the repository I forked into my ieng6 account. I went back to the GitHub page of my fork and clicked on the green code button. I selected the "SSH" tab and copied the url to my clipboard. I went back to my terminal, and typed the command git clone `<ctrl> v <enter>`. My terminal looked like this:  
 ![7](https://user-images.githubusercontent.com/122565144/224514440-493eaab1-5f13-4948-83b6-ab762ee3b143.jpg)  
