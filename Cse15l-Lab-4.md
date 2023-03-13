@@ -21,12 +21,13 @@ In order to log into ieng6, I opened my terminal and typed: ssh cs15lwi23apg@ien
   So as we see there is a 1 failure in our terminal. To fix this  
 Edit the code file to fix the failing test
 From the error message, I knew that the problem with the code. So I typed the command nano L<Tab>.java in order to autocomplete the file name and then open a text editor within my terminal to fix the error. Using my down arrow key repeatedly, I went down to line 42 and updated the increment statement in the last while loop to increment index2, rather than index1. This is the code before the change:  
- ![10](https://user-images.githubusercontent.com/122565144/224515876-34ef604c-55a0-48b0-8832-f77ff4e77163.jpg)
+
+![10](https://user-images.githubusercontent.com/122565144/224515876-34ef604c-55a0-48b0-8832-f77ff4e77163.jpg)
  This is the code after the change:  
-  ![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)  
+![11](https://user-images.githubusercontent.com/122565144/224515892-17abfc87-cc09-49a2-b084-261e63b96efc.jpg)  
   ## Run the tests, demonstrating that they now succeed
 In order to run the tests again, I used the up arrow key, since they are the same lines of code from the first time I ran the tests. To recompile the java files, I typed `<up><up><up><up><up><up><up><up><enter>`. This compiled all of the java files. Then, in order to run the unit tests, I typed `<up><up><up><up><up><up><enter>`. This ran all the tests, and this time they all passed. My terminal looked like:  
- ![15](https://user-images.githubusercontent.com/122565144/224517895-6b86a01b-eccd-4cb1-b0f6-c377575cb672.jpg)
+![15](https://user-images.githubusercontent.com/122565144/224517895-6b86a01b-eccd-4cb1-b0f6-c377575cb672.jpg)
 ![16](https://user-images.githubusercontent.com/122565144/224517936-5eee1b0e-6c3a-4429-add9-fb3517e5261b.jpg)
 Commit and push the resulting change to your Github account (you can pick any commit message!)
 In order to push my changes to GitHub, I first typed git add . `<enter>` to add all my changes. Then, I created a commit with a message by typing git commit -m "fix error" `<enter>`. Finally, I pushed my changes to GitHub, by typing git push. My terminal output was:  
@@ -41,7 +42,7 @@ then wrote 'Updated'
 
 then I pressed <esc> to exit insert mode and then used <:><w><q><Enter> 
 to save and exit vim`  
-  ![17](https://user-images.githubusercontent.com/122565144/224518260-48175df6-2ebd-4f38-b1e4-06ed1485da40.jpg)
+![17](https://user-images.githubusercontent.com/122565144/224518260-48175df6-2ebd-4f38-b1e4-06ed1485da40.jpg)
 ![18](https://user-images.githubusercontent.com/122565144/224518312-43edcb39-bb7a-430d-af8a-7789e47a0261.jpg)
 
 
