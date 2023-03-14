@@ -44,5 +44,6 @@ then wrote 'Updated'
 
 then I pressed <esc> to exit insert mode and then used <:><w><q><Enter> 
 to save and exit vim  
+  
 ![17](https://user-images.githubusercontent.com/122565144/224518260-48175df6-2ebd-4f38-b1e4-06ed1485da40.jpg)
 ![18](https://user-images.githubusercontent.com/122565144/224518312-43edcb39-bb7a-430d-af8a-7789e47a0261.jpg)
